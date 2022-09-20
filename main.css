@@ -44,3 +44,7 @@ main nav{
 #list{
     line-height:1.5em;
 }
+footer p.copyright{
+    text-align:center;
+    font-size: 80%;
+}
