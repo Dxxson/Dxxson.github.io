@@ -87,5 +87,9 @@ div {
     border: 5px dotted blue;
     border-radius: 20px;
     box-shadow: 3px 4px 4px red;
-    padding: 1em;
+    padding-top:1em;
+padding-bottom: 1em;
+padding-right: 1em;
+padding-right:1em ;
+    
 }
