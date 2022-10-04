@@ -48,6 +48,7 @@ main nav{
     font-size:105%;
     margin:1.5em, right 2em ,left 2em, bottom 1.5em;
     border: 5px dashed blue;
+    border-radius: 20px;
     box-shadow: 3px 4px 4px red;
     padding: .5em;
     
@@ -59,4 +60,13 @@ main nav{
 footer p.copyright{
     text-align:center;
     font-size: 80%;
+}
+div {
+    
+    
+    margin:1.5em, right 2em ,left 2em, bottom 1.5em;
+    border: 5px dotted blue;
+    border-radius: 20px;
+    box-shadow: 3px 4px 4px red;
+    padding: 1em;
 }
