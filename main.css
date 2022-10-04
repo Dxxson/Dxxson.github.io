@@ -6,8 +6,12 @@ font-family: Arial, Helvetica, sans-serif;
 font-size: 100%;
 width: 1000px;
 background-color: white;
-margin: top bottom 15px auto;
-padding:top bottom 15px right left  1.5em;
+margin-top:15em;
+margin-bottom: 15em;
+padding-top: 15px;
+padding-bottom:15px;
+padding-right:1.5em ;
+padding-right:1.5em; ; 
 border: 1px solid black;
 border-radius: 25px;
 box-shadow: 5px 5px 0 0;
@@ -39,22 +43,31 @@ main{
 }
 main h3{
     font-size:105%;
-    margin: 3em, 2em, 1.5em;
+    margin-top:3em;
+    Margin-right: 2em;
+    margin-left: 2em; 
+    margin-bottom:1.5em;
     border: 5px double blue; 
     border-radius: 20px;
     box-shadow:3px 3px 4px 4px red;
-    padding:1em;
+    padding-top: 1em;
+padding-bottom: 1em;
+padding-right:1em ;
+padding-right: 1em;
 }
 main nav{
     font-size:105%;
-    margin:1.5em;
+    margin-top:1.5em;
     Margin-right: 2em;
     margin-left: 2em; 
     margin-bottom: 1.5em;
     border: 5px dashed blue;
     border-radius: 20px;
     box-shadow: 3px 4px 4px red;
-    padding: .5em;
+    padding-top:.5em;
+padding-bottom: .5em;
+padding-right: .5em;
+padding-right:.5em ;
     
 
 }
@@ -67,7 +80,10 @@ footer p.copyright{
 }
 div {
     
-    margin:1.5em, right 2em ,left 2em, bottom 1.5em;
+    margin-top:1.5em;
+    Margin-right: 2em;
+    margin-left: 2em; 
+    margin-bottom: 1.5em;
     border: 5px dotted blue;
     border-radius: 20px;
     box-shadow: 3px 4px 4px red;
