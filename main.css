@@ -28,6 +28,7 @@ header h2{
 }
 
 header img{
+    
     float: left;
 }
 .shadow{
@@ -62,7 +63,6 @@ footer p.copyright{
     font-size: 80%;
 }
 div {
-    
     
     margin:1.5em, right 2em ,left 2em, bottom 1.5em;
     border: 5px dotted blue;
