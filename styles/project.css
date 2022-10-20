@@ -20,8 +20,10 @@ aside{
     width:20%;
     float: right;
     background-color: #ffebc6;
-    padding: 
+    padding: 1em;
+    
 }
+
 article h3{
     font-size:130%;
     color: maroon;
