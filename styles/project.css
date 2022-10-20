@@ -21,7 +21,7 @@ aside{
     float: right;
     background-color: #ffebc6;
     padding: 1em;
-    
+
 }
 
 article h3{
@@ -69,4 +69,14 @@ article{
 footer{
     clear: both;
     border-top: 2px solid maroon;
+}
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
+    border: 3px solid darkgreen;
+    background-color: lightgreen;
+    padding:1em;
+    
 }
