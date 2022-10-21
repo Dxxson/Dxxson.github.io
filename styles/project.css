@@ -20,7 +20,8 @@ header{
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
-    text-decoration:#800000 ;
+    text-decoration-line: 4px ;
+    text-decoration-color: #800000; 
 }
 header img{
     float: left;
