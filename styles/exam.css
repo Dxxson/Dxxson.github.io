@@ -1,3 +1,7 @@
+html {
+	background-image: linear-gradient(to left, white 0%, lightblue 100%);
+}
+
 header{
 font-size: 2em;
 font-weight: bold;
