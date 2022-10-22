@@ -39,7 +39,8 @@ width: 20%;
 float: right;
 background-color: lightblue;
 padding: 1em;
-border: 2px darkblue;
+border: 2px solid darkblue;
+
 }
 aside ol{
     list-style-type: upper-roman;
