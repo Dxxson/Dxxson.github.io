@@ -20,6 +20,12 @@ column-gap: 2em;
 margin-left: 2em;
 
 }
+article h2{
+    color: blue;
+    font-size: 2em;
+    font-weight: bold;
+    
+}
 article p::first-letter {
     font-size: 3em;
     font-weight: bold;
