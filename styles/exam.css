@@ -8,12 +8,20 @@ article{
 width: 75%;
 margin: 15px auto;
 clear: left;
+font-size: 1em;
 width: 70%;
 float: left;
 column-count: 2;
 column-rule: 2px dotted blue;
 column-gap: 2em;
 margin-left: 2em;
+
+}
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
 
 }
 aside{
