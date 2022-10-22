@@ -28,7 +28,7 @@ article p::first-letter {
 
 }
 aside{
-position: sticky;
+position: absolute;
 width: 20%;   
 float: right;
 background-color: lightblue;
