@@ -7,6 +7,13 @@ width: 95%;
 article{
 width: 75%;
 margin: 15px auto;
+clear: left;
+width: 70%;
+float: left;
+column-count: 2;
+column-rule: 2px dotted maroon;
+column-gap: 2em;
+margin-left: 2em;
 
 }
 aside{
