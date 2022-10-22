@@ -33,14 +33,15 @@ article p::first-letter {
     color: black;
 
 }
-aside{
-position: fixed;
-width: 20%;   
-float: right;
-background-color: lightblue;
-padding: 1em;
-border: 2px solid darkblue;
-
+aside {
+    width: 20%;    
+	padding: 0.1em 1em 1em;
+    position: fixed;
+	top: 30%;
+	right: 0;
+	border: 3px solid darkslateblue;
+	background-color: lightblue;
+	padding: 1.5em;
 }
 aside ol{
     list-style-type: upper-roman;
