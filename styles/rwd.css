@@ -111,12 +111,12 @@ html, body {
     }
     
     footer {
-          clear: both;
-          border-top: 2px solid #f46b45;
+    clear: both;
+    border-top: 2px solid #f46b45;
     }
     footer p.copyright {
-          text-align: center;
-          font-size: .8em;
+    text-align: center;
+    font-size: .8em;
     }
     
    
@@ -167,12 +167,12 @@ html, body {
         font-size: .8em;
     }
     footer {
-          clear: both;
-          border-top: 1px solid #f46b45;
+    clear: both;
+    border-top: 1px solid #f46b45;
     }
     footer p.copyright {
-          text-align: center;
-          font-size: .6em;
+    text-align: center;
+    font-size: .6em;
     }
     }
     
